@@ -33,6 +33,18 @@ Registered: Black Box Theme
   --background-darkness: 0.75; /* change the darkness of your background. 1 makes it completely black, 0 makes it like the original image */
 }
 
+[role="list"] > div {
+  background-color:transparent;
+} 
+
+.chatContent-3KubbW {
+    background-color:transparent;
+}
+
+.container-1NXEtd {
+  background-color:transparent !important;
+}
+
 
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
